@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Redress_Welcome_v3"
         mc:Ignorable="d"
         ResizeMode="CanMinimize"
-        Title="Welcome to Redress" Height="450" Width="800">
+        Title="Welcome to Redress" Height="750" Width=1500">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="0*"/>
