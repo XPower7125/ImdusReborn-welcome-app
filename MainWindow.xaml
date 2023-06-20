@@ -14,8 +14,8 @@
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
         <TextBlock x:Name="textBlock" Margin="59,102,0,0" TextWrapping="Wrap" FontSize="48" Height="65" VerticalAlignment="Top" HorizontalAlignment="Left" FontWeight="Bold" Width="282" Grid.Column="1" d:LayoutOverrides="HorizontalAlignment"><Run Language="it-it" Text="Hello there!"/></TextBlock>
-        <TextBlock x:Name="textBlock1" Margin="59,174,0,0" TextWrapping="Wrap" FontSize="24" Text="Welcome to Redress10" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment" HorizontalAlignment="Left" Width="256" Grid.Column="1"/>
-        <TextBlock x:Name="textBlock2" Margin="59,211,0,0" TextWrapping="Wrap" Text="The redesigned windows 10" HorizontalAlignment="Left" Width="210" FontSize="16" Grid.Column="1" Height="23" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
+        <TextBlock x:Name="textBlock1" Margin="59,174,0,0" TextWrapping="Wrap" FontSize="24" Text="Welcome to ImdusReborn" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment" HorizontalAlignment="Left" Width="256" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock2" Margin="59,211,0,0" TextWrapping="Wrap" Text="What Windows 10 should've been" HorizontalAlignment="Left" Width="210" FontSize="16" Grid.Column="1" Height="23" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment"/>
         <Button x:Name="button" Content="Explore our features" Margin="59,255,0,0" Click="button_Click" BorderBrush="#FF2B2B2B" Background="#FF292929" BorderThickness="1,1,1,1" Height="36" VerticalAlignment="Top" Foreground="White" Width="128" HorizontalAlignment="Left" d:LayoutOverrides="Width" Grid.Column="1" >
             <Button.Resources>
                 <Style TargetType="Border">
